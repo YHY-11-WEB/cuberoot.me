@@ -1,0 +1,10 @@
+{
+  "filename": "cuberoot-rubik-atrium-preview-delta.tar.gz",
+  "bytes": 800319,
+  "sha256": "78795fafed7203a2f0f935d76c6b1a633c2db81e48208a79ab1c26e28b62817a",
+  "changed_files": 52,
+  "removed_files": 6,
+  "reconstructed_tree_matches_full_export": true,
+  "base_tree_sha256sums_sha256": "0630d1b6a3b54899f9315b5c86c2de6af6150793a803210b890d1ece8ee75d69",
+  "target_tree_sha256sums_sha256": "eb308b7fa6322bd758b1847c54e317edebe7438ac1304abe314d40466717ea2a"
+}

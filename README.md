@@ -1,11 +1,18 @@
-# Rubik Atrium Space preview artifact
+# Rubik Atrium camera follow-up
 
-Source repository: https://github.com/YHY-11-WEB/cuberoot.me
-Source design commit: 170e0b0de67d6b072d1c8a4e9c7b8f09af17459f
-Base: 7b0ccd546cb251fa3108a00d84d0e54b37fc2504
+Design source commit: 69c305f9fb580bc3c30b9b8f578c226e98245723
 
-Artifact: cuberoot-rubik-atrium-preview.tar.gz
-Bytes: 44338320
-SHA256: a65993b80c332712dde74d1554103611ad197ff5368dd0872728776b5a6c9cc6
+[
+  {
+    "filename": "cuberoot-rubik-atrium-preview.tar.gz",
+    "bytes": 44339161,
+    "sha256": "14f45dd0c9455101d02ab0b60a1daaab5f3d623ae67514f3e4fd88254be22585"
+  },
+  {
+    "filename": "cuberoot-rubik-atrium-preview-delta.tar.gz",
+    "bytes": 800319,
+    "sha256": "78795fafed7203a2f0f935d76c6b1a633c2db81e48208a79ab1c26e28b62817a"
+  }
+]
 
-Genuine Next selective static export, home + Space. Deploy extracted files at host root. GPL-3.0 LICENSE.txt, SOURCE.md and CHECKS.json included. Client typecheck passed; 89 Space tests passed; build exited 0; static hydration/navigation/assets/WASM verified. Hardware WebGL visual acceptance remains with main conversation. No author API required. No credentials or environment files packaged. Independent artifact tree only; no main or upstream changes.
+Full package: extract at host root. Genuine selective Next static export; GPL/SOURCE/CHECKS included. Delta base is the 170e0b0 build: overlay changed files, remove paths listed in removed-files.json, discard that transport metadata, verify complete SHA256SUMS. Exact reconstructed tree equality verified. Initial 89 tests passed on 170e0b0; camera follow-up typecheck/export/navigation/resources/WASM passed. Hardware Edge accepted initial geometry. No author API or environment credentials.
