@@ -1,18 +1,18 @@
-# Rubik Atrium camera follow-up
+# Approved Residence preview
 
-Design source commit: 69c305f9fb580bc3c30b9b8f578c226e98245723
+Design source commit: 5221ade518766f2e42450dad28752fc5440ad3bc
 
 [
   {
-    "filename": "cuberoot-rubik-atrium-preview.tar.gz",
-    "bytes": 44339161,
-    "sha256": "14f45dd0c9455101d02ab0b60a1daaab5f3d623ae67514f3e4fd88254be22585"
+    "filename": "cuberoot-approved-residence-preview.tar.gz",
+    "bytes": 44341493,
+    "sha256": "3fa9b37dc70dc04bf91fa92f596e410715fe3285525877d54048c9bb06eb33a1"
   },
   {
-    "filename": "cuberoot-rubik-atrium-preview-delta.tar.gz",
-    "bytes": 800319,
-    "sha256": "78795fafed7203a2f0f935d76c6b1a633c2db81e48208a79ab1c26e28b62817a"
+    "filename": "cuberoot-approved-residence-preview-delta.tar.gz",
+    "bytes": 802882,
+    "sha256": "faee433da59df88d5f0986dd2ada9e4e85691e6c2cc07382491fd87844cf4634"
   }
 ]
 
-Full package: extract at host root. Genuine selective Next static export; GPL/SOURCE/CHECKS included. Delta base is the 170e0b0 build: overlay changed files, remove paths listed in removed-files.json, discard that transport metadata, verify complete SHA256SUMS. Exact reconstructed tree equality verified. Initial 89 tests passed on 170e0b0; camera follow-up typecheck/export/navigation/resources/WASM passed. Hardware Edge accepted initial geometry. No author API or environment credentials.
+Full package: extract at host root. Genuine selective Next static export; GPL/SOURCE/CHECKS included. Delta base is the 170e0b0 build: overlay changed files, remove paths listed in removed-files.json, discard that transport metadata, verify complete SHA256SUMS. Exact reconstructed tree equality verified. final source typecheck, 89 tests, export/navigation/resources/WASM passed. Final GPU acceptance remains with main conversation. No author API or environment credentials.
